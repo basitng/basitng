@@ -3,7 +3,7 @@
 
 #### I am the code ninja 💻💻🤗🤗
 
-![I am the code ninja 💻💻🤗🤗](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am the code ninja 💻💻🤗🤗](src='https://github.com/basitng/basitng/blob/main/1632606061984.png')
 
 I am a web developer with the simplest aim of creating real world user experience and solving real world problem. I love coding alot no wonder am called the code ninja 😎.
 
@@ -19,7 +19,7 @@ Skills: REACT NATIVE /  REACT / DJANGO/ TYPESCRIPT/JS / HTML / CSS/SCSS
 
 - 📫 How to reach me: basitng.com 
 
-- 😄 Pronouns: Ajaga 
+- 😄 Pronouns: Ajaga
 
 - ⚡ Fun fact: I love eating 
 
