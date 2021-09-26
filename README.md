@@ -24,7 +24,7 @@ Skills: REACT NATIVE /  REACT / DJANGO/ TYPESCRIPT/JS / HTML / CSS/SCSS
 - ⚡ Fun fact: I love eating 
 
 ### My projects.
-<img src='' width="256"/>
+<img src='https://github.com/basitng/basitng/blob/main/1632605309099.png' width="256"/>
 <img src='' width="256"/>
 <img src='' width="256"/>
 <img src='' width="256"/>
