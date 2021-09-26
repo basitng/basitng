@@ -28,7 +28,7 @@ Skills: REACT NATIVE /  REACT / DJANGO/ TYPESCRIPT/JS / HTML / CSS/SCSS
 <img src='https://github.com/basitng/basitng/blob/main/1632605761205.png' width="256"/>
 <img src='https://github.com/basitng/basitng/blob/main/1632605882962.png' width="256"/>
 <img src='1632606001444.png' width="256"/>
-<img src='' width="256">
+<img src='https://github.com/basitng/basitng/blob/main/1632606360209.png' width="256">
 <img src='' width="256">
 <img src='' width="256">
 <img src='' width="256">
